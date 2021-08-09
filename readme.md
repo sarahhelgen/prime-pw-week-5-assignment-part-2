@@ -22,10 +22,10 @@ Update the HTML:
 Add a Stylesheet:
 
 - Create a `stylesheet.css` file and source it into the HTML file. [x]
-- Give the `header` a dark background color and choose a light  color for the text.
-- Center the text in the `header`.
-- Give the `main` a light grey background color.
-- Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
+- Give the `header` a dark background color and choose a light  color for the text. [x]
+- Center the text in the `header`. [x]
+- Give the `main` a light grey background color. [x]
+- Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path. 
 - Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
 - Look up CSS `margin` and `padding`. 
   - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
