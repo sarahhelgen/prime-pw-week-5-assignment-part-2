@@ -5,8 +5,11 @@ header {
 
 main {
     background-color: lightgray;
+    padding: 1em;
 }
 
 body {
     background-image: url("record.png");
+    background-repeat: initial; /* you can also use repeat-y or repeat-x; automatically does x and y */
+    margin: 0;
 }
