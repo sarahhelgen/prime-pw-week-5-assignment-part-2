@@ -17,6 +17,8 @@ body {
     margin: 0;
 /* } */ 
 
+/* stretch goals */
+
 .top {
     background-color: darkslategrey;
     text-align: center;
@@ -30,5 +32,5 @@ body {
 
 .background {
     background-image: url("record.png");
-    background-repeat: initial; m
+    background-repeat: initial;
 }
