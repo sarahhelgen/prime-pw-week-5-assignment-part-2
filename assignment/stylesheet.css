@@ -1,4 +1,6 @@
-header {
+/*base mode*/
+
+/* header {
     background-color: darkslategrey;
     text-align: center;
     color: lightpink;
@@ -11,6 +13,22 @@ main {
 
 body {
     background-image: url("record.png");
-    background-repeat: initial; /* you can also use repeat-y or repeat-x; automatically does x and y */
+    background-repeat: initial; m
     margin: 0;
+/* } */ 
+
+.top {
+    background-color: darkslategrey;
+    text-align: center;
+    color: lightpink;
+}
+
+.middle {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.background {
+    background-image: url("record.png");
+    background-repeat: initial; m
 }
